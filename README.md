@@ -6,6 +6,18 @@ SEPftSETA is a sanitized public research, tooling, and presentation project expl
 
 This repository is the public presentation and documentation layer for a private field-tested research lineage. Raw evidence, call/audio artifacts, private notes, infrastructure details, and unsanitized source materials are intentionally excluded. They are excluded to protect privacy, preserve OPSEC, avoid exposing sensitive indicators, and keep the public project focused on methodology rather than raw artifacts.
 
+## Research thesis
+
+Social-engineering attacks are often studied after the fact.
+
+SEPftSETA explores a different question:
+
+**How can real-world social-engineering interactions be safely engaged, captured, structured, and analyzed before they become successful attacks?**
+
+The project focuses on building a disciplined workflow around controlled engagement, evidence collection, transcription, behavioral analysis, and TTP mapping.
+
+The objective is not simply to collect artifacts. The objective is to transform isolated interactions into structured intelligence that can support analysis, research, detection, education, and public-interest early-warning efforts.
+
 ## Portfolio role
 
 SEPftSETA is the adversarial-research and presentation-polish pillar of a broader operator portfolio.
