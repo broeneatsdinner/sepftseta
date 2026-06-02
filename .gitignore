@@ -1,0 +1,25 @@
+# macOS Finder metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Icon?
+
+# Local/private working files
+private/
+tmp/
+*.tmp
+
+# Raw/private evidence artifacts
+*.csv
+*.log
+*.sqlite
+*.db
+*.wav
+*.mp3
+*.m4a
+*.aac
+*.flac
+
+# Office/export working files
+~$*
