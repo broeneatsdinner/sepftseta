@@ -1,0 +1,5 @@
+Assessment: MEDIUM risk controlled social-engineering artifact.
+
+This voicemail reads as an early-stage recruiting lure. The operator value is not in a single overt request; it is in the setup. A professional persona, targeted background reference, attractive compensation, and callback request combine to create a plausible path into a longer conversation.
+
+The transcript does not show credential harvesting, malware delivery, or explicit financial fraud. The useful finding is behavioral: the message is designed to convert a cold recipient into an active participant across phone and email.

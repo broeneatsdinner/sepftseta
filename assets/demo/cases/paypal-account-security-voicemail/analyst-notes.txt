@@ -1,0 +1,4 @@
+- Treat as a synthetic, controlled demo artifact.
+- Strongest behavioral signals are authority borrowing, urgency, and loss-aversion pressure.
+- Good presentation hook: the transcript turns a familiar voicemail into a visible engagement chain.
+- Recommended next analytic step: compare verification phrasing across other account-security voicemail samples.

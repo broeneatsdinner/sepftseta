@@ -1,0 +1,5 @@
+Block|Level|ID|Name|Description
+TA0001|Tactic|TA0001|Initial Access|Attempt to initiate access or engagement with a target.
+TA0001|Technique|T1566|Phishing|Social-engineering message intended to induce user action.
+TA0001|Sub-technique|T1566.004|Phishing: Spearphishing Voice|Voice phishing used to prompt a return call or disclosure.
+TA0001|Procedure|---|Account Security Callback Lure|Synthetic account-security voicemail uses deposit verification and urgency to prompt callback.

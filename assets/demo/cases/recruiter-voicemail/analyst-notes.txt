@@ -1,0 +1,4 @@
+- Treat as a synthetic, controlled demo artifact.
+- Preserve the distinction between observable behavior and inferred intent.
+- Good presentation hook: this looks routine until the transcript is viewed as an engagement path.
+- Recommended next analytic step: compare callback language and channel-shift phrasing across additional voicemail samples.

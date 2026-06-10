@@ -1,0 +1,5 @@
+Assessment: HIGH risk controlled social-engineering artifact.
+
+This voicemail combines authority, money, urgency, and verification framing. The message is short, but it creates a complete engagement path: recognize the brand, react to the deposit amount, accept the security premise, and call back before the claimed hold occurs.
+
+The transcript does not contain live infrastructure, a real phone number, or credential collection. The concern is the designed next step. The caller attempts to move the recipient into a controlled callback where account details could be requested under pressure.

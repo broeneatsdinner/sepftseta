@@ -1,0 +1,6 @@
+[00:00.000 --> 00:04.640]  Hi, Broen. This is Michael with PayPal Account Security. We're calling about a recent deposit of
+[00:04.640 --> 00:10.800]  $840 that appears to have been sent to your account. To avoid any delay in processing the transaction,
+[00:10.800 --> 00:15.520]  we need to verify that you received the deposit and confirm a few account details. Please call
+[00:15.520 --> 00:20.480]  us back today using the number provided in the message. If we're unable to verify the transaction,
+[00:20.480 --> 00:25.360]  the deposit will be placed on hold for security review. Again, this is Michael with PayPal
+[00:25.360 --> 00:35.360]  Account Security. Please return our call as soon as possible.

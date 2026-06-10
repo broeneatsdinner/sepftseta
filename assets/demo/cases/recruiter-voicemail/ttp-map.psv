@@ -1,0 +1,7 @@
+Block|Level|ID|Name|Description
+TA0001|Tactic|TA0001|Initial Access|Attempt to initiate access or engagement with a target.
+TA0001|Technique|T1566|Phishing|Social-engineering message intended to induce user action.
+TA0001|Sub-technique|T1566.004|Phishing: Spearphishing Voice|Voice phishing used to prompt a return call.
+TA0001|Procedure|---|Recruiter Callback Pretext|Synthetic recruiter voicemail asks the recipient to call back and continue the engagement.
+TA0043|Tactic|TA0043|Reconnaissance|Gather information to support target selection or approach.
+TA0043|Procedure|---|Background-Aware Targeting|Message references software engineering and cybersecurity experience to increase relevance.

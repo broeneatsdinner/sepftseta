@@ -1,0 +1,17 @@
+[00:00.000 --> 00:02.040]  Hi, Broen. This is Sarah
+[00:02.040 --> 00:03.920]  with Horizon Technical Recruiting.
+[00:03.920 --> 00:05.960]  I came across your background
+[00:05.960 --> 00:08.080]  in software engineering and cybersecurity
+[00:08.080 --> 00:10.360]  and wanted to reach out regarding a role
+[00:10.360 --> 00:13.120]  that may be a strong fit for your experience.
+[00:13.120 --> 00:15.600]  The position is fully remote
+[00:15.600 --> 00:18.280]  and offers a compensation range
+[00:18.280 --> 00:20.560]  between 180 and $210,000 annually,
+[00:20.560 --> 00:23.240]  depending on experience and fit.
+[00:23.240 --> 00:26.400]  I sent additional information to your email earlier today.
+[00:26.400 --> 00:28.360]  When you have a chance,
+[00:28.360 --> 00:31.680]  please give me a call back so we can discuss the opportunity
+[00:31.680 --> 00:33.000]  in more detail.
+[00:33.000 --> 00:34.160]  I look forward
+[00:34.160 --> 00:34.720]  to speaking with you.
+[00:34.720 --> 00:35.360]  Thanks.

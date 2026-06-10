@@ -1,0 +1,6 @@
+- Financial institution pretext borrows trust from a recognizable account-security function.
+- Specific dollar amount creates credibility and gives the recipient something concrete to react to.
+- Verification language asks for account-detail confirmation without stating the exact data requested.
+- Same-day callback request creates time pressure.
+- Hold / security review consequence introduces loss-aversion pressure.
+- Callback via "number provided in the message" keeps the response path controlled by the caller.
