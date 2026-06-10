@@ -128,4 +128,4 @@ demo_section "Analyst notes"
 demo_reveal_file "$notes_file" "$DEMO_TYPE_ANALYSIS" 0.30
 
 echo
-demo_success "Demo complete. Cached artifacts preserved; no network, API, Whisper, or model calls were made."
+demo_success "Demo complete. Controlled artifact preserved. Analysis ready."
