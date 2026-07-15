@@ -2,6 +2,8 @@
 
 **Stealth Engagement Platform for Tracking Social Engineering Threat Actors**
 
+SEPftSETA is a sanitized, case-driven adversarial-analysis workflow that transforms cached Whisper-style transcript artifacts into behavioral indicators, MITRE ATT&CK TTP mappings, and analyst-facing assessments while preserving evidence, privacy, OPSEC, and attribution boundaries.
+
 SEPftSETA is a sanitized public research, tooling, and presentation project exploring how real social-engineering threat interactions can be safely captured, structured, and analyzed through operator-grade infrastructure, evidence discipline, and adversarial TTP mapping.
 
 This repository is the public presentation and documentation layer for a private field-tested research lineage. Raw evidence, call/audio artifacts, private notes, infrastructure details, and unsanitized source materials are intentionally excluded. They are excluded to protect privacy, preserve OPSEC, avoid exposing sensitive indicators, and keep the public project focused on methodology rather than raw artifacts.
